@@ -22,7 +22,7 @@ This Daily Journal Web Project is a learning exercise that uses Node.js, Express
 - Package.json: The project's package configuration file with dependencies and scripts.
 - README.md: A project documentation file explaining how to set up and run the application.
 
-#Learning Objectives:
+# Learning Objectives:
 
 - Understand the basics of Node.js and Express.js for server-side development.
 - Learn how to use EJS as a template engine to dynamically render HTML pages.
