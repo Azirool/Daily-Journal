@@ -9,7 +9,7 @@ This Daily Journal Web Project is a learning exercise that uses Node.js, Express
 - User Interface: The web application will have a clean and user-friendly interface for creating and viewing journal entries.
 - Journal Entries: Users can create, edit, and delete journal entries. Each entry will consist of a title and content.
 - Template Engine (EJS): We will use EJS (Embedded JavaScript) as the template engine to dynamically generate HTML content with data from the server. 
-- Express.js Backend: Express.js will be used to create a RESTful API for handling CRUD operations (Create, Read, Update, Delete) on journal entries.
+- Express.js Backend: Express.js will be used to create a RESTful API for handling CRUD operations (Create, Read) on journal entries.
 - Lodash: Lodash will be used for utility functions and simplifying data manipulation.
 - CSS Styling: The application will have CSS styles to make it visually appealing and responsive.
 - Body-Parser Middleware: Body-Parser will be used to parse incoming HTTP requests, making it easier to handle form submissions.
